@@ -3,7 +3,7 @@ export default {
         type: 'VisTesting',
         locale: 'en_IE',
         title: 'Testing For WOOO',
-        url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDYs11bACuOoHTc3ewrongzXxDMF_W1vVXpuRCfBPOUQ&s',
+        url: 'https://previews.123rf.com/images/imagecatalogue/imagecatalogue1611/imagecatalogue161116759/66637610-test-text-rubber-seal-stamp-watermark-tag-inside-rounded-rectangular-banner-with-grunge-design-and.jpg',
         description: 'WOOO',
         locale: 'en_EN',
         keywords: 'WOOO',
@@ -11,7 +11,7 @@ export default {
             {
                 width: 1200,
                 height: 630,
-                url: `https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDYs11bACuOoHTc3ewrongzXxDMF_W1vVXpuRCfBPOUQ&s`,
+                url: `https://previews.123rf.com/images/imagecatalogue/imagecatalogue1611/imagecatalogue161116759/66637610-test-text-rubber-seal-stamp-watermark-tag-inside-rounded-rectangular-banner-with-grunge-design-and.jpg`,
             },
         ],
         site_name: 'WOOO',
