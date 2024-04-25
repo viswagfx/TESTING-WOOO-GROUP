@@ -112,7 +112,7 @@ const webLinks = [
         url: 'https://bento.me/vis',
         type: 'other',
         icon: '/bento.png',
-        on: true
+        on: false
     },
     {
         title: 'Deploy on Vercel',
@@ -137,11 +137,11 @@ const webLinks = [
     },
 
     {
-        title: 'Buy Me a Coffee',
-        url: 'https://www.buymeacoffee.com/realvjy',
+        title: 'Bento',
+        url: 'https://bento.me/vis',
         type: 'other',
-        icon: '/bmc.png',
-        on: false
+        icon: '/bento.png',
+        on: true
     },
 
     {
