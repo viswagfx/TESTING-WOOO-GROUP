@@ -9,7 +9,7 @@ const light = {
         border: "#EAEAEA",
         inset: '#e2e4e8',
         input: 'rgba(65,67,78,0.12)',
-        hover: 'linear-gradient(270deg, #FFF7FB 0%, #F4F8FF 100%);',
+        hover: 'linear-gradient(270deg, rgba(166,0,0,1) 0%, rgba(255,0,0,1) 35%, rgba(166,0,0,1) 100%);',
     },
     text: {
         primary: `var(--black)`,
@@ -33,7 +33,7 @@ const dark = {
         border: "#EAEAEA",
         inset: '#111111',
         input: 'rgba(191,193,201,0.12)',
-        hover: 'linear-gradient(270deg, #131628 0%, #27141C 100%);',
+        hover: 'linear-gradient(270deg, rgba(166,0,0,1) 0%, rgba(255,0,0,1) 35%, rgba(166,0,0,1) 100%);;',
     },
     text: {
         primary: `var(--white20)`,
