@@ -1,24 +1,24 @@
 export default {
     openGraph: {
-        type: 'website',
+        type: 'VisTesting',
         locale: 'en_IE',
-        title: 'next lnks by realvjy',
-        url: 'https://vjy.me',
-        description: 'Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk.',
+        title: 'Testing For WOOO',
+        url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDYs11bACuOoHTc3ewrongzXxDMF_W1vVXpuRCfBPOUQ&s',
+        description: 'WOOO',
         locale: 'en_EN',
-        keywords: 'designer, product designer, illustrator, indian designer, vijay verma, realvjy, illlustrations, indian illustrator, ui designer india, sushi design system, zomato designer, 3dicons, uiprint, vijay realvjy, indian ui designer, design india, overlayz, nft art',
+        keywords: 'WOOO',
         images: [
             {
                 width: 1200,
                 height: 630,
-                url: `https://vjy.me/preview.jpg`,
+                url: `https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDYs11bACuOoHTc3ewrongzXxDMF_W1vVXpuRCfBPOUQ&s`,
             },
         ],
-        site_name: 'realvjy',
+        site_name: 'WOOO',
     },
     twitter: {
-        handle: '@realvjy',
-        site: 'vjy.me',
+        handle: '@viswagfx',
+        site: 'https://twitter.com/viswagfx',
         cardType: 'summary_large_image',
     },
 };
