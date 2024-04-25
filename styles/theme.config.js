@@ -36,7 +36,7 @@ const dark = {
         hover: 'linear-gradient(270deg, rgba(166,0,0,1) 0%, rgba(255,0,0,1) 35%, rgba(166,0,0,1) 100%);;',
     },
     text: {
-        primary: `var(--white20)`,
+        primary: `var(--red)`,
         secondary: 'rgba(255,255,255,0.3)',
         tertiary: '#a9abb6',
         quarternary: '#6c6f7e',
