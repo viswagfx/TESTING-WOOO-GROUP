@@ -13,7 +13,7 @@ const webLinks = [
         url: 'https://instagram.com/realvjy',
         type: 'social',
         icon: '/insta.svg',
-        on: true
+        on: false
     },
     {
         title: 'Dribbble',
@@ -38,7 +38,7 @@ const webLinks = [
     },
     {
         title: 'Youtube',
-        url: 'https://youtube.com/realvjy',
+        url: 'https://www.youtube.com/channel/UCpNQ1TshPhnyJZwRsA0BpZw',
         type: 'social',
         icon: '/youtube.svg',
         on: false
@@ -48,7 +48,7 @@ const webLinks = [
         url: 'https://figma.com/@realvjy',
         type: 'social',
         icon: '/figma.svg',
-        on: true
+        on: false
     },
     {
         title: 'Behance',
@@ -69,7 +69,7 @@ const webLinks = [
         url: 'https://mastodon.online/@realvjy',
         type: 'social',
         icon: '/mastodon.svg',
-        on: true
+        on: false
     },
     {
         title: 'Hive Social',
@@ -108,10 +108,10 @@ const webLinks = [
     },
     // Install section
     {
-        title: 'Use this template',
-        url: 'https://github.com/realvjy/nxt-lnk/generate',
+        title: 'Bento',
+        url: 'https://bento.me/vis',
         type: 'install',
-        icon: '/use.png',
+        icon: '/bento.png',
         on: true
     },
     {
@@ -119,21 +119,21 @@ const webLinks = [
         url: 'https://vercel.com/import/git?s=https://github.com/realvjy/nxt-lnk',
         type: 'install',
         icon: '/vercel.svg',
-        on: true
+        on: false
     },
     {
         title: 'Documentation',
         url: 'https://github.com/realvjy/nxt-lnk#nxt-lnk',
         type: 'install',
         icon: '/doc.png',
-        on: true
+        on: false
     },
     {
         title: 'Github',
         url: 'https://github.com/realvjy/nxt-lnk',
         type: 'install',
         icon: '/github-fill.svg',
-        on: true
+        on: false
     },
 
     {
@@ -141,7 +141,7 @@ const webLinks = [
         url: 'https://www.buymeacoffee.com/realvjy',
         type: 'other',
         icon: '/bmc.png',
-        on: true
+        on: false
     },
 
     {
@@ -149,7 +149,7 @@ const webLinks = [
         url: 'https://vjy.me/lnk',
         type: 'other',
         icon: '/vjy.png',
-        on: true
+        on: false
     },
 
     {
@@ -157,7 +157,7 @@ const webLinks = [
         url: 'https://vjy.me',
         type: 'other',
         icon: '/vjy.png',
-        on: true
+        on: false
     },
 ];
 
