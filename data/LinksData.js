@@ -34,14 +34,14 @@ const webLinks = [
         url: 'https://github.com/realvjy',
         type: 'social',
         icon: '/github.svg',
-        on: true
+        on: false
     },
     {
         title: 'Youtube',
         url: 'https://www.youtube.com/channel/UCpNQ1TshPhnyJZwRsA0BpZw',
         type: 'social',
         icon: '/youtube.svg',
-        on: false
+        on: true
     },
     {
         title: 'Figma',
