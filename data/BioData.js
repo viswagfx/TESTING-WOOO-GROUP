@@ -4,7 +4,7 @@ const bioData = [
         name: 'Viswa',
         username: 'Vis',
         url: 'https://Vis.wooogroup.fun',
-        titleImg: true,
+        titleImg: false,
         avatar: '/avatar.png',
         nftAvatar: true,
         description: 'testing for WOOO',
