@@ -110,7 +110,7 @@ const webLinks = [
     {
         title: 'Bento',
         url: 'https://bento.me/vis',
-        type: 'install',
+        type: 'other',
         icon: '/bento.png',
         on: true
     },
